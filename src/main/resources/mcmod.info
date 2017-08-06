@@ -1,0 +1,20 @@
+[
+{
+  "modid": "cyancraft",
+  "name": "Cyancraft",
+  "description": "Linking the future to the past!",
+  "version": "beta_0.3.6",
+  "url": "https://minecraft.curseforge.com/projects/cyancraft-mod",
+  "updateUrl": "",
+  "authorList": [
+    "Cyan_, JJ, Widdle, Xander_Kann, Presto575, and Potato_4"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
